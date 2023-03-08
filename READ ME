@@ -1,0 +1,4 @@
+Authorisation program using JAVA language.
+It uses two phases.
+phase 1: create user account(creating user id and password)
+phase2: login using the created account
